@@ -297,21 +297,9 @@ Groq provides a free tier with extremely fast inference on open-source models (l
 
 ---
 
-## 🚧 Potential Improvements
-
-- [ ] Add hybrid BM25 + vector search with Reciprocal Rank Fusion reranking
-- [ ] Add Redis caching for repeated queries (90%+ latency reduction)
-- [ ] Add streaming LLM responses (Server-Sent Events)
-- [ ] Add Exam Mode — auto-generate exam questions from papers
-- [ ] Add section-wise retrieval for structured papers
-- [ ] Add user authentication
-- [ ] Deploy to Railway / Render
-
----
-
 ## 👨‍💻 Author
 
-Built by **[Your Name]** — [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+Built by **[Viswabharathi]** — [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/viswabharathi-k-a-b797391a1/)) · [GitHub](https://github.com/Viswabharathi-K-A)
 
 ---
 
