@@ -299,7 +299,7 @@ Groq provides a free tier with extremely fast inference on open-source models (l
 
 ## 👨‍💻 Author
 
-Built by **[Viswabharathi]** — [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/viswabharathi-k-a-b797391a1/)) · [GitHub](https://github.com/Viswabharathi-K-A)
+Built by **[Viswabharathi]** — [LinkedIn](https://www.linkedin.com/in/viswabharathi-k-a-b797391a1/) · [GitHub](https://github.com/Viswabharathi-K-A)
 
 ---
 
